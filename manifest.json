@@ -1,0 +1,11 @@
+  {
+    "name": "HiLyt",
+    "version": "1.0",
+    "description": "Bookmarks the webpage along with the highlighted texts for easy and quick review on next visit",
+    "manifest_version": 2,
+    "author": "Rishad Yamnoor",
+    
+    "browser_action": {
+      "default_popup": "popup.html"
+    }
+  }
