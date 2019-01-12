@@ -1,4 +1,6 @@
-
+document.addEventListener('DOMContentLoaded', function(){
+    
+})
 
 function selectedText() {
     let txt = "";
